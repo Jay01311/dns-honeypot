@@ -27,7 +27,10 @@ Every panel you see has a corresponding CSV in `exports/`; bundle them up (`zip 
 - `redeploy.sh` automates taking the whole stack down, pulling updates, and rebuilding with a single script.
 - `export_dashboard_data.py` now walks the dashboard JSON, hits each Prometheus/Loki query, and writes sanitized CSV files to an `exports/` directory for sharing.
 
-## Getting started (zero glue)
+- <img width="1101" height="656" alt="image" src="https://github.com/user-attachments/assets/9b9a34b7-bad4-4c88-8837-c2c98f9096fb" />
+
+
+## Getting started
 
 1. `cd hetzner_deploy/unbound-dns`
 2. `cp .env.example .env` and configure `GRAFANA_DOMAIN`, Grafana admin creds, `LETSENCRYPT_EMAIL`, and any TLS overrides you need.
