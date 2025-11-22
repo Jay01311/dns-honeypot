@@ -52,7 +52,7 @@ Every panel you see has a corresponding CSV in `exports/`; bundle them up (`zip 
 - The 24-hour export paints an even bigger picture: `cbs.nl`, `scb.se`, `atlassian.com`, `abb.com`, and `up.pt` collectively generated more than 250 million queries. That level of volume isn’t random noise,either large-scale clients or a persistent appliance that never stops resolving.
 - The busiest clients were a handful of `45.179.*` and `45.6.*` IPv4 addresses, each firing north of 5k queries in the observed five minutes. They might be part of an ISP or scanning farm, but whatever they are, the dashboards make tracking them trivial.
 
-What does this highlight? It illustrates how exposed DNS infrastructure can become a passive feed of interesting traffic even when it isn’t advertised. The internet keeps asking questions, and this setup simply listens carefully. If you’re curious how this experiment fits into my broader work, check the other portfolios linked in the root of this repo,sometimes I run an idea like this and have to see where it leads.
+What does this highlight? It illustrates how exposed DNS infrastructure can become a passive feed of interesting traffic even when it isn’t advertised. The internet keeps asking questions, and this setup simply listens carefully. If you’re curious how this experiment fits into my broader work, check the other repos,sometimes I run an idea like this and have to see where it leads.
 
 ## What this experiment has felt like
 
