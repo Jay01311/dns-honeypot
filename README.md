@@ -65,3 +65,7 @@ What does this highlight? It illustrates how exposed DNS infrastructure can beco
 - Keep the story alive: rerun the exporter with new windows (`--duration 12h`, `--end ...`), keep the outputs in timestamped directories, and update this README with the fresh statistics so the plot stays current.
 
 If you’re following along with your own honeypot, update this README with statistics from your exports so we can compare stories and see whether the same sites and clients keep coming back.
+
+## Legal
+
+This project is provided “as is.” There are no warranties of any kind, express or implied, including but not limited to merchantability, fitness for a particular purpose, or non-infringement, and I am not liable for any damages arising from its use. You assume all risks associated with deploying, configuring, or operating this stack.
