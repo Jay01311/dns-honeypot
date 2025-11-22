@@ -27,8 +27,9 @@ Every panel you see has a corresponding CSV in `exports/`; bundle them up (`zip 
 - `redeploy.sh` automates taking the whole stack down, pulling updates, and rebuilding with a single script.
 - `export_dashboard_data.py` now walks the dashboard JSON, hits each Prometheus/Loki query, and writes sanitized CSV files to an `exports/` directory for sharing.
 
-- <img width="1101" height="656" alt="image" src="https://github.com/user-attachments/assets/9b9a34b7-bad4-4c88-8837-c2c98f9096fb" />
+<img width="1101" height="656" alt="image" src="https://github.com/user-attachments/assets/9b9a34b7-bad4-4c88-8837-c2c98f9096fb" />
 
+<img width="2260" height="479" alt="image" src="https://github.com/user-attachments/assets/551c2f5b-3e60-403b-89ac-bd17d7da68b6" />
 
 ## Getting started
 
